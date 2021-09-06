@@ -6,5 +6,23 @@ This web-app is solve sudoku problem
 ### Initial Preview
 
 <p align="center">
-  <img src="App_preview/initia preview.PNG" width="700" alt="accessibility text">
+  <img src="SudukoWebApp/App_preview/initia preview.PNG" width="1000" alt="accessibility text">
+</p>
+
+
+
+
+### Generate Puzzle
+
+<p align="center">
+  <img src="SudukoWebApp/App_preview/generate_puzzle.PNG" width="1000" alt="accessibility text">
+</p>
+
+
+
+
+### Solve Puzzle
+
+<p align="center">
+  <img src="SudukoWebApp/App_preview/solve_puzzle.PNG" width="1000" alt="accessibility text">
 </p>
